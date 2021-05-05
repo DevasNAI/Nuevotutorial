@@ -9,6 +9,6 @@ def calculadoraMas(ar):
 cholo = amigo * calculadoraMas(amigo)
 print(cholo)
 print("Hola compañeros!")
-print("Buenas tardes")
+print("Buenas días alegría")
 print("Auxilio")
 print("Gracias")
